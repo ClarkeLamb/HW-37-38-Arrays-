@@ -1,0 +1,15 @@
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.AssemblyInfoInputs.cache
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.AssemblyInfo.cs
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.csproj.CoreCompileInputs.cache
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\Exercise3738.exe
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\Exercise3738.deps.json
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\Exercise3738.runtimeconfig.json
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\Exercise3738.runtimeconfig.dev.json
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\Exercise3738.dll
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\ref\Exercise3738.dll
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\bin\Debug\net5.0\Exercise3738.pdb
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.dll
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\ref\Exercise3738.dll
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.pdb
+C:\Users\cflam\source\repos\Exercise3738\Exercise3738\obj\Debug\net5.0\Exercise3738.genruntimeconfig.cache
